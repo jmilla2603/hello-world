@@ -1,2 +1,2 @@
 # hello-world
-mensaje de hola mundo en github
+Ingeniero de Sistemas con más de 8 años de experiencia en la creación de sistemas a medida.
